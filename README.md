@@ -112,12 +112,6 @@ The backend will be available at http://localhost:8080.
 - Repository: Interfaces for database operations.
 - Database: MySQL tables for users and transactions.
 
-## Future Enhancements
-- Two-factor authentication for login.
-- Enhanced dashboard with graphical transaction analytics.
-- Email notifications for password generation and updates.
-- Dockerizing the project for containerized deployment.
-
 
 ## The below are the Screenshots of my project
 ### Home Page
@@ -134,6 +128,16 @@ The backend will be available at http://localhost:8080.
 
 ### Customer Dashboard
 ![{6E3F3D5C-E28B-41C5-99F4-570F9648F411}](https://github.com/user-attachments/assets/46b710c8-c15c-4639-919c-5d38a67dbc35)
+
+
+## Future Enhancements
+- Two-factor authentication for login.
+- Enhanced dashboard with graphical transaction analytics.
+- Email notifications for password generation and updates.
+- Dockerizing the project for containerized deployment.
+
+## Feel free to ask queries
+- Email - kranthi90597@gmail.com
 
 
 
