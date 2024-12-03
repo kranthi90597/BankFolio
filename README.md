@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-12-03 at 14 26 41_d4273072](https://github.com/user-attachments/assets/befc220b-1ea5-436c-ae80-bb255ede3a57)# BankFolio
+# BankFolio
 A comprehensive banking system with role-based access control for Admins and Customers, built using React (Frontend), Spring Boot (Backend), and MySQL (Database). The system includes features like account management, secure authentication, and role-specific functionalities.
 
 ## Project Description
@@ -93,7 +93,7 @@ The backend will be available at http://localhost:8080.
 
 ## Architecture
 
-![Uploading WhatsApp Image 2024-12-03 at 14.26.41_d4273072.jpg…]()
+![WhatsApp Image 2024-12-03 at 14 26 41_d4273072](https://github.com/user-attachments/assets/befc220b-1ea5-436c-ae80-bb255ede3a57)
 
 ### Frontend
 
