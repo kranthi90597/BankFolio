@@ -83,6 +83,7 @@ cd frontend
 npm start
 ```
 The React app will run on http://localhost:3000.
+
 2. Backend (Spring Boot)
 Run the Spring Boot application from your IDE:
 ```
@@ -91,7 +92,9 @@ mvn spring-boot:run
 The backend will be available at http://localhost:8080.
 
 ## Architecture
+
 ![Uploading WhatsApp Image 2024-12-03 at 14.26.41_d4273072.jpg…]()
+
 ### Frontend
 
 - index.js: Entry point for the application.
@@ -112,6 +115,10 @@ The backend will be available at http://localhost:8080.
 - Enhanced dashboard with graphical transaction analytics.
 - Email notifications for password generation and updates.
 - Dockerizing the project for containerized deployment.
+
+
+## The are the Screenshots of my project
+
 
 
 
