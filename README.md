@@ -119,7 +119,7 @@ The backend will be available at http://localhost:8080.
 - Dockerizing the project for containerized deployment.
 
 
-## The are the Screenshots of my project
+## The below are the Screenshots of my project
 ### Home Page
 ![{98C91BAF-DBA2-4E25-A543-1DDCEC6CD953}](https://github.com/user-attachments/assets/5d70d82a-95ca-49b6-a535-ed18c1dee600)
 
