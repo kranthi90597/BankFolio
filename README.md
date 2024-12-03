@@ -42,11 +42,38 @@ Key highlights include:
 - Tables for user accounts and transactions
 
 ## Setup and Installation
-1. Prerequisites
+### 1. Prerequisites
 - Node.js: Install Node.js, which is required for both React and the management of packages using npm (Node Package Manager).
 - Java: Install Java for running Spring Boot.
 - MySQL Server: Install MySQL server for the database.
 - MySQL Workbench: Install MySQL Workbench for database management and queries.
+
+### 2. Download the Files
+- Download the above Frontend_BankFolio and Backend_BankFolio files and follow the below procedure
+
+### 3. Frontend Setup
+```
+cd Frontend_BankFolio
+npm install
+```
+### 4. Backend Setup
+1. Import the backend project into Eclipse IDE.
+2. Configure the database settings in the application.properties file:
+```
+spring.datasource.url=jdbc:mysql://localhost:3306/bankingdb
+spring.datasource.username=root
+spring.datasource.password=root
+```
+Build the backend:
+```
+mvn clean install
+```
+### 5. Database Setup
+```
+CREATE DATABASE bank_app;
+```
+
+
 
 
 
