@@ -118,6 +118,20 @@ The backend will be available at http://localhost:8080.
 
 
 ## The are the Screenshots of my project
+### Home Page
+![{98C91BAF-DBA2-4E25-A543-1DDCEC6CD953}](https://github.com/user-attachments/assets/5d70d82a-95ca-49b6-a535-ed18c1dee600)
+
+### Admin LoginPage
+![{35556513-F51C-4046-B68B-E6F03910DCD3}](https://github.com/user-attachments/assets/e9895948-a1c9-453b-bbb4-963131efafb2)
+
+### Admin Dashboard
+![{ABF3CCAD-1F11-4DE7-BB95-502E53B301F6}](https://github.com/user-attachments/assets/c909f21e-da63-45eb-9a15-4456637c5523)
+
+### Customer LoginPage
+![{AD5DB263-2C8F-4FEF-886F-44572809DD32}](https://github.com/user-attachments/assets/198a3f93-abff-4f61-a88e-8a1abfe038f2)
+
+### Customer Dashboard
+![{6E3F3D5C-E28B-41C5-99F4-570F9648F411}](https://github.com/user-attachments/assets/46b710c8-c15c-4639-919c-5d38a67dbc35)
 
 
 
