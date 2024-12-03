@@ -1,4 +1,4 @@
-# BankFolio
+![WhatsApp Image 2024-12-03 at 14 26 41_d4273072](https://github.com/user-attachments/assets/befc220b-1ea5-436c-ae80-bb255ede3a57)# BankFolio
 A comprehensive banking system with role-based access control for Admins and Customers, built using React (Frontend), Spring Boot (Backend), and MySQL (Database). The system includes features like account management, secure authentication, and role-specific functionalities.
 
 ## Project Description
@@ -64,14 +64,55 @@ spring.datasource.url=jdbc:mysql://localhost:3306/bankingdb
 spring.datasource.username=root
 spring.datasource.password=root
 ```
-Build the backend:
+3. Build the backend:
 ```
 mvn clean install
 ```
 ### 5. Database Setup
+1. Create the database using MySQL Workbench:
 ```
 CREATE DATABASE bank_app;
 ```
+2. Import the required SQL schema and data.
+
+## How to Run the Project
+### Frontend (React)
+1. Navigate to the frontend folder:
+```
+cd frontend
+npm start
+```
+The React app will run on http://localhost:3000.
+2. Backend (Spring Boot)
+Run the Spring Boot application from your IDE:
+```
+mvn spring-boot:run
+```
+The backend will be available at http://localhost:8080.
+
+## Architecture
+![Uploading WhatsApp Image 2024-12-03 at 14.26.41_d4273072.jpg…]()
+### Frontend
+
+- index.js: Entry point for the application.
+- App.js: Manages routing for Admin and Customer components.
+- Components:
+   - AdminLogin
+   - AdminDashboard
+   - BalanceChecking
+### Backend
+- Entity: Defines database models (e.g., User, Transaction).
+- Controller: Handles HTTP requests (@GetMapping, @PostMapping).
+- Service: Implements business logic.
+- Repository: Interfaces for database operations.
+- Database: MySQL tables for users and transactions.
+
+## Future Enhancements
+- Two-factor authentication for login.
+- Enhanced dashboard with graphical transaction analytics.
+- Email notifications for password generation and updates.
+- Dockerizing the project for containerized deployment.
+
 
 
 
