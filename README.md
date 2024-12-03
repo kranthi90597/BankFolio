@@ -9,3 +9,9 @@ Key highlights include:
 - Role-Based Access Control to differentiate Admin and Customer responsibilities.
 - Scalable backend powered by Spring Boot and a user-friendly frontend using React.
 
+## Features
+### Authentication
+- Random password generation during account creation.
+- Login system for Admin and Customer roles.
+- Secure storage of passwords in the database.
+
