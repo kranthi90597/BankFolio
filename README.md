@@ -52,6 +52,8 @@ Key highlights include:
 - Download the above Frontend_BankFolio and Backend_BankFolio files and follow the below procedure
 
 ### 3. Frontend Setup
+1. Import the frontend_bankfolio code into VS Code.
+2. Open Terminal in VS Code and follow the below code
 ```
 cd Frontend_BankFolio
 npm install
