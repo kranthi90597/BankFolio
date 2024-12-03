@@ -15,3 +15,17 @@ Key highlights include:
 - Login system for Admin and Customer roles.
 - Secure storage of passwords in the database.
 
+### Authorization
+- Role-based access:
+  - Admin: Manage accounts, perform transactions, and view all balances.
+  - Customer: View balances, check transaction history, and perform basic operations.
+- Restricted frontend routes and backend API calls based on user roles.
+### Admin Features
+- Admin Dashboard to manage user accounts.
+- View all user balances and transaction history.
+- Add, update, and delete customer accounts.
+### Customer Features
+- Secure login with random passwords.
+- View account balance and transaction history.
+
+
