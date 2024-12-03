@@ -28,4 +28,25 @@ Key highlights include:
 - Secure login with random passwords.
 - View account balance and transaction history.
 
+## Technologies Used
+### Frontend
+- React.js
+- HTML5, CSS3
+- Axios (for API calls)
+### Backend
+- Spring Boot
+- RESTful APIs with role-based authorization
+- Random password generation and secure data handling
+### Database
+- MySQL (Relational Database)
+- Tables for user accounts and transactions
+
+## Setup and Installation
+1. Prerequisites
+- Node.js: Install Node.js, which is required for both React and the management of packages using npm (Node Package Manager).
+- Java: Install Java for running Spring Boot.
+- MySQL Server: Install MySQL server for the database.
+- MySQL Workbench: Install MySQL Workbench for database management and queries.
+
+
 
